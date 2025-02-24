@@ -1,3 +1,3 @@
 # codepix
 
-#Alterando linha apos adicionar arquivo
+#Alterando linha apos alterar arquivo
